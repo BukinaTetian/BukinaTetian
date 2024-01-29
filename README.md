@@ -1,8 +1,11 @@
 Bukina Tetiana
+
 Summary
+
 Passionate cryptocurrency enthusiast since 2022 with a strong focus on validator node operations. Proven experience in managing nodes for various blockchain projects including Aleo, Massa, Quai, IronFish, Stride, Sei, Aptos, Humanode, Kyve, SSV, and Sui. Known for responsiveness, diligence, and the ability to handle complex tasks. A trustworthy and hardworking individual ready to dedicate extensive effort to meet project requirements. Proficient in Python and adept at using Mobaxterm for efficient command-line operations.
 
 Key Skills
+
 Cryptocurrency Enthusiast
 Validator Node Operations
 Aleo, Massa, Quai, IronFish, Stride, Sei, Aptos, Humanode, Kyve, SSV, Sui
